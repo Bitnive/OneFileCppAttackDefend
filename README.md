@@ -1,2 +1,2 @@
-# OneF-leCppAttackDefend
-Tek dosya ile saldır savun oyunu temeli
+# OneFileCppAttackDefend GAME (Only Console)
+The code only work in console.
